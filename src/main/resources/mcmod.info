@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sc",
+  "name": "ScammerChecker",
+  "description": "A simple mod for Hypixel Skyblock players to check whether someone is a scammer using a command.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/IamMusavaRibica/ScammerChecker/",
+  "updateUrl": "https://github.com/IamMusavaRibica/ScammerChecker/releases",
+  "authorList": ["musava_ribica"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
